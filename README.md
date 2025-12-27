@@ -1,4 +1,13 @@
-## 1️⃣ Smart Healthcare Insights
+## Smart Healthcare Insights
+
+### 📌 About This Project
+
+This project focuses on applying data analytics in the healthcare domain to help hospital management monitor patient flow, department workload, and operational efficiency. The goal was to convert complex healthcare data into a clear, centralized decision-support dashboard.
+
+The analysis covers data cleaning, relationship modeling, KPI definition, and interactive visualization to highlight utilization patterns, peak periods, and department-wise performance. The dashboard is designed for non-technical stakeholders, ensuring insights are easy to interpret and actionable.
+
+This project demonstrates my ability to work with domain-specific data, translate operational challenges into analytics solutions, and support better resource planning in healthcare environments.
+
 
 ### 📌 Business Problem (WHY)
 
@@ -41,3 +50,4 @@ Healthcare organizations handle large volumes of patient and operational data, b
 ### 🚀 Business Impact
 
 Supports hospital administrators in improving operational planning, patient experience, and efficient use of resources.
+
